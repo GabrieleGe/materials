@@ -1,0 +1,415 @@
+
+[
+{
+"Žaliava": "PoliProtect™ APB",
+"NAV kodas": 35,
+"Virgin/RPET": "Virgin",
+"IV, dl/g": "0.85±0.02",
+"AA, ppm": "<1.6",
+"Lydimosi temperatūra, °C": "250±5",
+"Džiovinimo laikas, val.": 7
+},
+{
+"Žaliava": "BTB PET-Regranulat CL 80",
+"NAV kodas": 27,
+"Virgin/RPET": "RPET",
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<6",
+"Tankis, kg/m3": "800-900",
+"Lydimosi temperatūra, °C": 250,
+"Džiovinimo temp, C°": 165,
+"Džiovinimo laikas, val.": 8
+},
+{
+"Žaliava": "Cleartuf 8006",
+"NAV kodas": 2,
+"Virgin/RPET": "Virgin",
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<2",
+"Lydimosi temperatūra, °C": 253
+},
+{
+"Žaliava": "LIGHTER™ VIRIDIS 25 PET COPOLYMER",
+"NAV kodas": 140,
+"Virgin/RPET": "RPET",
+"IV, dl/g": "0.84±0.02",
+"AA, ppm": "<1",
+"Tankis, kg/m3": 880,
+"Lydimosi temperatūra, °C": 247
+},
+{
+"Žaliava": "Eastlon PET CB-602F",
+"NAV kodas": 128,
+"Virgin/RPET": "RPET",
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": 250,
+"Džiovinimo laikas, val.": 7
+},
+{
+"Žaliava": "Eastlon PET CB-602R",
+"NAV kodas": 127,
+"Virgin/RPET": "RPET",
+"IV, dl/g": "0.82±0.03",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "250±5",
+"Džiovinimo laikas, val.": 7
+},
+{
+"Žaliava": "Eastlon PET CB-608R",
+"NAV kodas": 128,
+"Virgin/RPET": "RPET",
+"IV, dl/g": "0.85±0.03",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "250±5",
+"Džiovinimo laikas, val.": 7
+},
+{
+"Žaliava": "Eastlon PET CB-612F",
+"NAV kodas": 130,
+"Virgin/RPET": "RPET",
+"IV, dl/g": "0.845±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "248±5",
+"Džiovinimo laikas, val.": 7
+},
+{
+"Žaliava": "Eastlon PET CB-602",
+"NAV kodas": 124,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Tankis, kg/m3": 870,
+"Lydimosi temperatūra, °C": "250±5",
+"Džiovinimo laikas, val.": 7
+},
+{
+"Žaliava": "Eastlon PET CB-612",
+"IV, dl/g": "0.845±0.02",
+"AA, ppm": "<1",
+"Tankis, kg/m3": 870,
+"Lydimosi temperatūra, °C": "248±5",
+"Džiovinimo laikas, val.": 7
+},
+{
+"Žaliava": "Greentech DI-GRT-01",
+"IV, dl/g": "0.78(-0.02/+0.03)",
+"AA, ppm": "<6",
+"Tankis, kg/m3": "800±50",
+"Drėgmė, %": "<0.4",
+"Džiovinimo temp, C°": 155,
+"Džiovinimo laikas, val.": 8
+},
+{
+"Žaliava": "APE 80FRH (Re), with 20% Flakes",
+"NAV kodas": 120,
+"Virgin/RPET": "RPET",
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "247±2",
+"Drėgmė, %": "<0.1",
+"Džiovinimo temp, C°": 165,
+"Džiovinimo laikas, val.": 8
+},
+{
+"Žaliava": "APE 80FRH (RE25), with PCR PET blends upto 25%",
+"NAV kodas": 84,
+"Virgin/RPET": "RPET",
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "247±2",
+"Drėgmė, %": "<0.1",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": 8
+},
+{
+"Žaliava": "APE 84FRH (RE25), with PCR PET Blends upto 25%",
+"NAV kodas": 131,
+"Virgin/RPET": "RPET",
+"IV, dl/g": "0.84±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "247±2",
+"Drėgmė, %": "<0.1",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": 8
+},
+{
+"Žaliava": "ECO-RPET 80 - E",
+"IV, dl/g": "0.8±0.03",
+"AA, ppm": "<3",
+"Tankis, kg/m3": 850,
+"Lydimosi temperatūra, °C": 250,
+"Drėgmė, %": "<0.2"
+},
+{
+"Žaliava": "Barrier masterbatch 2520",
+"IV, dl/g": "0.72-0.76",
+"Lydimosi temperatūra, °C": "<258",
+"Drėgmė, %": "<0.25",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": "6,5",
+"Pastabos": "Drying @ 160 – 180°C for 4-6 hours with dry air (dew point <-30°C)  Residual moisture content: max 30 ppm"
+},
+{
+"Žaliava": "RAMAPET R182 (C) PlantPET",
+"IV, dl/g": "0.82±0.02",
+"AA, ppm": "<1",
+"Tankis, kg/m3": "830-880",
+"Lydimosi temperatūra, °C": "245±5",
+"Drėgmė, %": "<0.3",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": 6,
+"Pastabos": "Drying temperature   150 - 170°C; Residence time in the dryer silo 6 hours;Dew Point of Drying Air < - 20°C; Airflow Rate  2.2 m3/h/kg PET"
+},
+{
+"Žaliava": "ITD  r+ PET",
+"IV, dl/g": "0.71-0.78",
+"AA, ppm": 2,
+"Lydimosi temperatūra, °C": "250-260",
+"Pastabos": "Anti-Yellow priedas"
+},
+{
+"Žaliava": "MX-Nylon: Grade S6003LD",
+"Lydimosi temperatūra, °C": 237,
+"Džiovinimo temp, C°": 150,
+"Džiovinimo laikas, val.": 5,
+"Pastabos": "Apsaugant nuo sąveikos su oru, nebūtina džiovinti. Džiovinimas 5h 150°C vakuume, 12h 100°C be vakuumo."
+},
+{
+"Žaliava": "MX-Nylon: Grade S6007",
+"Lydimosi temperatūra, °C": 237,
+"Džiovinimo temp, C°": 150,
+"Džiovinimo laikas, val.": 5,
+"Pastabos": "Apsaugant nuo sąveikos su oru, nebūtina džiovinti. Džiovinimas 5h 150°C vakuume, 12h 100°C be vakuumo."
+},
+{
+"Žaliava": "KRUPET-A IV 0,7-0,8 Flakes Clear",
+"NAV kodas": 25,
+"IV, dl/g": "0.7-0.8",
+"Drėgmė, %": "1±0.5"
+},
+{
+"Žaliava": "PET COPOLYMER",
+"NAV kodas": 26,
+"IV, dl/g": "0.74-0.84",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "245±3",
+"Drėgmė, %": "<0.2"
+},
+{
+"Žaliava": "MOPET-A 0.82+",
+"NAV kodas": 89,
+"IV, dl/g": "0.82-0.87",
+"AA, ppm": "<1",
+"Tankis, kg/m3": 900,
+"Drėgmė, %": "<0.4",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": 7
+},
+{
+"Žaliava": "Neopet 80",
+"NAV kodas": 23,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "248±4",
+"Drėgmė, %": "<0.2",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": 6
+},
+{
+"Žaliava": "Neopet 82FR",
+"NAV kodas": 86,
+"IV, dl/g": "0.82±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "248±4",
+"Drėgmė, %": "<0.2",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": 6
+},
+{
+"Žaliava": "RAMAPET N180",
+"NAV kodas": 21,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Tankis, kg/m3": "830-880",
+"Lydimosi temperatūra, °C": "245±5",
+"Drėgmė, %": "<0.3",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": 6
+},
+{
+"Žaliava": "RAMAPET R1",
+"NAV kodas": 44,
+"IV, dl/g": "0.84±0.02",
+"AA, ppm": "<1",
+"Tankis, kg/m3": "830-880",
+"Lydimosi temperatūra, °C": "245±5",
+"Drėgmė, %": "<0.3",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": 6
+},
+{
+"Žaliava": "PET Baltija RPET Clear",
+"NAV kodas": 85,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Tankis, kg/m3": 910,
+"Lydimosi temperatūra, °C": 250,
+"Džiovinimo temp, C°": 165,
+"Džiovinimo laikas, val.": 8,
+"Pastabos": "Anti-Yellow priedas"
+},
+{
+"Žaliava": "PET Baltija RPET Clear premium grade",
+"NAV kodas": 126,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Tankis, kg/m3": 910,
+"Lydimosi temperatūra, °C": 250,
+"Džiovinimo temp, C°": 168,
+"Džiovinimo laikas, val.": 8,
+"Pastabos": "Anti-Yellow priedas"
+},
+{
+"Žaliava": "RPET Polowat Regranulate",
+"NAV kodas": 11,
+"IV, dl/g": "0.78-0.82",
+"Tankis, kg/m3": "800-900",
+"Drėgmė, %": "<0.15",
+"Džiovinimo temp, C°": 168,
+"Džiovinimo laikas, val.": 8
+},
+{
+"Žaliava": "RDB  R-PET Regranulat Typ R760",
+"NAV kodas": 96,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<3",
+"Tankis, kg/m3": 800,
+"Drėgmė, %": "<0.4",
+"Džiovinimo temp, C°": 165,
+"Džiovinimo laikas, val.": 9
+},
+{
+"Žaliava": "RDB R-PET Regranulat Typ R760-2",
+"IV, dl/g": "0.8±0.03",
+"AA, ppm": "<3",
+"Tankis, kg/m3": 850,
+"Drėgmė, %": "<0.2",
+"Džiovinimo temp, C°": 165,
+"Džiovinimo laikas, val.": 9
+},
+{
+"Žaliava": "RelPET G5801",
+"NAV kodas": 122,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1"
+},
+{
+"Žaliava": "TerraPET RPET",
+"IV, dl/g": "0.75±0.02",
+"AA, ppm": "<6",
+"Tankis, kg/m3": "800±50",
+"Drėgmė, %": "<0.4"
+},
+{
+"Žaliava": "TexPET  874-C80",
+"NAV kodas": 87,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "246±2",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": "6,5"
+},
+{
+"Žaliava": "JADE CZ-302",
+"NAV kodas": 105,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "243±2",
+"Drėgmė, %": "<0.2"
+},
+{
+"Žaliava": "Wankai WK801",
+"NAV kodas": 101,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "243±2",
+"Drėgmė, %": "<0.4",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": "7,5",
+"Pastabos": "Typical drying conditions are an air temperature of 160-175℃, 4-6 hours residence time."
+},
+{
+"Žaliava": "Wankai  WK811",
+"IV, dl/g": "0.78±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "250±2",
+"Drėgmė, %": "<0.4",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": "7,5",
+"Pastabos": "Typical drying conditions are an air temperature of 160-175℃, 4-6 hours residence time."
+},
+{
+"Žaliava": "Wankai  WK821",
+"IV, dl/g": "0.83±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "243±2",
+"Drėgmė, %": "<0.4",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": "7,5",
+"Pastabos": "Typical drying conditions are an air temperature of 160-175℃, 4-6 hours residence time."
+},
+{
+"Žaliava": "Wankai  WK881",
+"IV, dl/g": "0.85±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "243±2",
+"Drėgmė, %": "<0.4",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": "7,5",
+"Pastabos": "Typical drying conditions are an air temperature of 160-175℃, 4-6 hours residence time."
+},
+{
+"Žaliava": "Wankai  WK851",
+"IV, dl/g": "0.85±0.02",
+"AA, ppm": "<1",
+"Lydimosi temperatūra, °C": "243±2",
+"Drėgmė, %": "<0.4",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": "7,5",
+"Pastabos": "Typical drying conditions are an air temperature of 160-175℃, 4-6 hours residence time."
+},
+{
+"Žaliava": "CleanPET®FK",
+"IV, dl/g": "0.76±0.02",
+"Tankis, kg/m3": "300-500",
+"Drėgmė, %": "<0.7",
+"Džiovinimo temp, C°": 165,
+"Džiovinimo laikas, val.": "8,5"
+},
+{
+"Žaliava": "CleanPET GK",
+"NAV kodas": 141,
+"IV, dl/g": "0.78±0.02",
+"Tankis, kg/m3": ">800",
+"Drėgmė, %": "<0.3",
+"Džiovinimo temp, C°": 175,
+"Džiovinimo laikas, val.": "8,5",
+"Pastabos": "Džiovinti ne mažiau 165°C. Sodinant bunkerį nemažinti temperatūros. Problema - burbulai, neišsilydžiusios granulės."
+},
+{
+"Žaliava": "VINAPET PET Chips",
+"NAV kodas": 121,
+"IV, dl/g": "0.8±0.02",
+"AA, ppm": "<1",
+"Tankis, kg/m3": 900,
+"Lydimosi temperatūra, °C": "248±2",
+"Drėgmė, %": "<0.2"
+},
+{
+"Žaliava": "Yisheng YS-W01",
+"NAV kodas": 138,
+"IV, dl/g": "0.78-0.8±0.015",
+"Lydimosi temperatūra, °C": "249±2",
+"Drėgmė, %": "<0.2"
+}
+]

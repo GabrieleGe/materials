@@ -1,0 +1,39 @@
+<form class="basic-container" [formGroup]="materialForm">
+    <div formArrayName="materials" *ngFor="let material of materialForm.get('materials')['controls']; let i = index">
+        <div class="row" [formGroupName]="i">
+
+            <mat-form-field cols="1" class="materialName">
+                <mat-label>Pasirinkite Žaliavą</mat-label>
+
+                <mat-select formControlName="materialName">
+                    <mat-option [value]="material" *ngFor="let material of materialsList">{{ material }}</mat-option>
+                </mat-select>
+            </mat-form-field>
+
+            <mat-form-field cols="1" class="materialQuantity">
+                <input matInput formControlName="materialQuantity" placeholder="Kiekis (%)" type="number">
+            </mat-form-field>
+
+            <div class="buttons">
+                <button class="float-left" mat-icon-button color="primary" aria-label="Remove/clear"
+                    (click)="removeOrClearEmail(i)" matTooltip="Remove" type="button">
+                    <mat-icon>highlight_off</mat-icon>
+                </button>
+                <button class="float-left" mat-icon-button color="primary" aria-label="Add" type="button"
+                    (click)="addMaterialFormGroup()" matTooltip="Add">
+                    <mat-icon>add_circle_outline</mat-icon>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="right">
+        Kiekių suma: {{getSumOfQuantity()}} %
+
+    </div>
+
+    <button type="submit" (click)="onSubmit()">Skaičiuoti</button>
+</form>
+<div class="right">
+    <div> Laikas: {{convertNumToTime(time)}} </div>
+    <div> Temperatūra: {{temperature}} </div>
+</div>
